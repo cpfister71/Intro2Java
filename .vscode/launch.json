@@ -1,0 +1,50 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DataTypesB",
+            "request": "launch",
+            "mainClass": "DataTypesB",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DataTypesC",
+            "request": "launch",
+            "mainClass": "DataTypesC",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhiteSpace",
+            "request": "launch",
+            "mainClass": "WhiteSpace",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
